@@ -1,0 +1,12 @@
+<Nav className="me-3 align-items-center">
+            
+                <Nav.Link href="/category" className="d-flex align-items-center">
+                    <i className="bi bi-grid me-1"></i> Category
+                </Nav.Link>
+                <Nav.Link href="/products" className="d-flex align-items-center">
+                    <i className="bi bi-box-seam me-1"></i> Products
+                </Nav.Link>
+                <Nav.Link href="/wishlist" className="d-flex align-items-center">
+                    <i className="bi bi-heart me-1"></i> Wishlist
+                </Nav.Link>
+                </Nav>
